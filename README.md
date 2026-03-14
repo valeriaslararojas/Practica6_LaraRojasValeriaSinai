@@ -3,7 +3,7 @@
 ## ⚡ Convertidor CD-CD ⚡
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/19/33/f2/1933f229934054eb1f9b9f9892ed5b65.gif" width="800"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ El sistema a simular es un Convertidor de potencia CD-CD.
 ---
 
 <p align="center">
-🌌 <img src="https://i.pinimg.com/originals/32/cc/18/32cc18c6dc8aa8c339ee3fdd4d80c9c3.gif" width="200"/> 🌌  
+🌌 <img src="https://i.pinimg.com/originals/32/cc/18/32cc18c6dc8aa8c339ee3fdd4d80c9c3.gif" width="800"/> 🌌  
 </p>
 
 <p align="center">
